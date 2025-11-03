@@ -71,6 +71,13 @@ do write
 exit
 
 ======================
+CONFIGURAR PCS
+======================
+1. Debes configurar cada PC en su segmento de red
+2. Utiliza IP estático en cada PC de acuerdo a su segmento de red
+3. Ejemplo: IP Estático, Subnet, Gateway
+
+======================
 Felicidades
 Ing. Pablo palacios
 ======================
