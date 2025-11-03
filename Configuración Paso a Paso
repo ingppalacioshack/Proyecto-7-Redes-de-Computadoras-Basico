@@ -41,7 +41,7 @@ do write
 exit
 
 interface serial0/0/0
-ip address 192.168.4.2 255.255.255.0 !(config interface serial derecha)
+ip address 192.168.4.2 255.255.255.0 !(config interface serial izquierda)
 no shut
 do write
 exit
